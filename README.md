@@ -9,3 +9,7 @@ Use `git add .` to stage all files.
 def greet():
 return “Hello!”
 ```
+| Name   | Age |
+|--------|-----|
+| Alice  |  24 |
+| Bob    |  30 |
