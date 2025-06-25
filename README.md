@@ -1,4 +1,4 @@
 # Demo
 
--[] hi
--[x] bye
+- [x] hi
+- [ ] bye
